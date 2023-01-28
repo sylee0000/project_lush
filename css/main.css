@@ -15,8 +15,6 @@ body{font-family: 'Noto Sans KR', sans-serif;}
   background-color: gray;
 }
 
-
-
 .header_box{
   width: 100%; height: 100px;
   border-bottom: 1px solid #ccc;
@@ -71,7 +69,6 @@ body{font-family: 'Noto Sans KR', sans-serif;}
   left: 0; top: 100px;
   z-index: 999;
 }
-
 
 .header_box .header .header_lnb .full01 .fullmenu_inner01{
   width: 1240px;
@@ -132,7 +129,6 @@ body{font-family: 'Noto Sans KR', sans-serif;}
   font-weight: bold;
 }
 
-
 /*---main_visual---*/
 
 .swiper{
@@ -183,7 +179,6 @@ body{font-family: 'Noto Sans KR', sans-serif;}
 
 
 /*---best_pro---*/
-
 
 #bath,#shower,#body,#face,#hair,#makeup,#perfume{display: none;}
 .bath_box,.shower_box,.body_box,.face_box,.hair_box,.makeup_box,.perfume_box{display: none;}
@@ -673,7 +668,6 @@ body{font-family: 'Noto Sans KR', sans-serif;}
   margin-bottom: 30px;
 }
 
-
 .footer_bg .footer_top .footer_sub input{
   width: 300px;
   height: 30px;
@@ -793,11 +787,9 @@ body{font-family: 'Noto Sans KR', sans-serif;}
   right: 0; top: 60px;
 }
 
-
 .wing_btn .btn_top i{
   margin-left: 15px;
 }
-
 
 .sale_list{
   width: 150px;
@@ -810,5 +802,3 @@ body{font-family: 'Noto Sans KR', sans-serif;}
   height: 80px;
   margin: 0 auto;
 }
-
-

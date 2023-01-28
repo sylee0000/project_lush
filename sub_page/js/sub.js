@@ -42,9 +42,6 @@ for(let i=0; i<bathbamList.length; i++){
   bathbamTitleP.setAttribute('class','title')
 
   
-
-  
-
   let bathbamPriceP = document.createElement('p')
   let bathbamPriceTxt = document.createTextNode(bathbamList[i].price)
   bathbamPriceP.appendChild(bathbamPriceTxt)

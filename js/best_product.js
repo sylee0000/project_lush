@@ -51,7 +51,6 @@ document.addEventListener("DOMContentLoaded",()=>{
   }
 
 
-
   for(let i=0; i<hoverboxFace.length; i++){
     hoverboxFace[i].addEventListener('mouseover',function(){
       this.children[0].src = "./images/content01_face/pro0" + i + "_on_face.jpg"
@@ -64,8 +63,6 @@ document.addEventListener("DOMContentLoaded",()=>{
       this.children[0].style.scale = '1'
     })
   }
-
-
 
 
   for(let i=0; i<hoverboxHair.length; i++){
